@@ -1,61 +1,26 @@
-# 👨‍💻 Rikelmy Roberto Silva Moraes
+# Hi! I'm Rikelmy Roberto, Mobile developer
 
-Desenvolvedor de software com foco em soluções práticas para automação de processos, visualização de dados e aplicações mobile/web. Atuo com tecnologias modernas como **Flutter**, **Firebase**, **Python**, **JavaScript** e **Streamlit**, criando produtos eficientes e intuitivos que atendem a demandas reais de negócio.
-
-📍 Itupeva, SP – Brasil  
-📧 rikélmyrobérto1@gmail.com  
-🌐 [Portfólio](https://rikelmyso7.github.io/portfolio_web)  
-🔗 [GitHub](https://github.com/rikelmyso7)
-
----
-
-## 🛠️ Habilidades Técnicas
-
-**Linguagens**  
-- Python · Dart · JavaScript · TypeScript · Kotlin · C
-
-**Frameworks e Ferramentas**  
-- Flutter · React · Next.js · Node.js · Express · PHP · Streamlit
-
-**Banco de Dados & Backend**  
-- Firebase · PostgreSQL · MongoDB · MySQL · AWS
-
-**Outras Tecnologias**  
-- Git · VS Code · Bootstrap · HTML/CSS · WordPress · Selenium · Pandas · Plotly
-
----
-
-## 📦 Projetos em Destaque
-
-### 📊 [Orama Dashboard](https://github.com/rikelmyso7/orama_dashboard)
-Automatização de relatórios financeiros com **Python, Pandas e Selenium**, e visualização de dados com **Streamlit + Plotly**. Utilizado para análise de vendas e suporte à tomada de decisão em múltiplos pontos de venda.
-
-- Redução de 40% no tempo de geração de relatórios.
-- Visualizações financeiras interativas e acessíveis.
-
----
-
-### 🧱 [Orama Fábrica](https://github.com/rikelmyso7/orama_fabrica)  
-### 🏬 [Orama Lojas](https://github.com/rikelmyso7/orama_lojas)  
-### 👤 [Orama User](https://github.com/rikelmyso7/orama_user)
-
-Conjunto de aplicativos **Flutter + Firebase** para controle de estoque em tempo real entre fábrica, lojas, pontos de venda e usuários.
-
-- Arquitetura descentralizada e modular.
-- Relatórios e movimentações em tempo real.
-- Autenticação, push notifications e sincronização automática.
-
----
-
-## 📚 Formação
-
-**Cursando Engenharia de Software – Cruzeiro do Sul** *(2025)*  
-**Formação Técnica Complementar**  
-- Python para automação de processos  
-- JavaScript backend com Node e Ajax  
-- Projeto de Telemetria BAJA SAE – IFPI LIMS/LAPESI
-
----
-
-Este repositório centraliza meus principais projetos e experimentos com foco em desenvolvimento de software aplicado a problemas reais. Explore os repositórios para ver o código, documentação e demonstrações práticas.
-
+<div>
+  <a href= https://github.com/rikelmyso7>
+  <img  height="180em" width= "49%" src="https://github-readme-stats.vercel.app/api?username=rikelmyso7&theme=tokyonight&show_icons=true&include_all_commits=true$count_private=true"/>
+  <img  height="180em" width= "49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikelmyso7&layout=compact&theme=tokyonight"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="python" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="android" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
+  <img align="center" alt="flutter" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="kotlin" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="python" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="c++" width="50" heigth="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+<!--   <img align="right" alt="tailung" width="300" heigth="300" src="https://media1.tenor.com/m/mIZVHmSFE2EAAAAC/waiting-tai-lung.gif"> -->
+  <img align="right" alt="esp32" width="300" heigth="300" src="https://media1.tenor.com/m/wfZnKK9_Sy8AAAAC/esp32-arduino.gif">
+</div>
+    
+  ##
+<div>
+  <a href="https://www.linkedin.com/in/thomas-jefferson-110767269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rikelmyso7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:rikelmyroberto1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
