@@ -2,7 +2,7 @@
 
 <div>
   <a href= https://github.com/rikelmyso7>
-  <img  height="180em" width= "49%" src="https://github-readme-stats.vercel.app/api?username=rikelmyso7&theme=tokyonight=true&count_private=true&hide_title=true&hide_border=true"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img  height="180em" width= "49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikelmyso7&layout=compact&theme=tokyonight"/>
 </div>
   
