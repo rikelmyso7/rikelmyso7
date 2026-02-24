@@ -2,7 +2,7 @@
 
 <div>
   <a href= https://github.com/rikelmyso7>
-  <img  height="180em" width= "49%" src="https://github-readme-stats.vercel.app/api?username=rikelmyso7&theme=tokyonight&show_icons=true&include_all_commits=true$count_private=true"/>
+  <img  height="180em" width= "49%" src="https://github-readme-stats.vercel.app/api?username=rikelmyso7&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true"/>
   <img  height="180em" width= "49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikelmyso7&layout=compact&theme=tokyonight"/>
 </div>
   
@@ -19,7 +19,7 @@
     
   ##
 <div>
-  <a href="https://www.linkedin.com/in/thomas-jefferson-110767269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rikelmyso7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rikelmyso7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:rikelmyroberto1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
