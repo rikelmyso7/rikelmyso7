@@ -5,7 +5,7 @@
 <div align="center">
   <img height="180em" width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=rikelmyso7&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_border=true&include_all_commits=true&v=1"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rikelmyso7&theme=tokyonight&hide_border=true&card_height=180" alt="GitHub Streak" /></a>
-  <img height="180em" width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rikelmyso7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rikelmyso7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -33,7 +33,11 @@
 
   <img align="center" alt="Xcode" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg">
 
+  <img align="center" alt="Java" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+
   <img align="center" alt="Go" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+
+  <img align="center" alt="Js" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 
   <img align="center" alt="Dbeaver" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
 
