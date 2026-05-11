@@ -8,57 +8,31 @@
   <img height="180em" width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rikelmyso7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1&count_private=true"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  
-  <img align="center" alt="Android" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
-  
-  <img align="center" alt="Flutter" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg">
-  
-  <img align="center" alt="Kotlin" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
-  
-  <img align="center" alt="Apple" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg">
-
-  <img align="center" alt="Docker" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-
-  <img align="center" alt="Kubernetes" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-
-  <img align="center" alt="Grafana" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
-
-  <img align="center" alt="Jenkins" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
-  
-  <img align="center" alt="Nginx" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
-
-  <img align="center" alt="Redis" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
-
-  <img align="center" alt="Xcode" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg">
-
-  <img align="center" alt="Java" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-
-  <img align="center" alt="Go" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-
-  <img align="center" alt="Js" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-
-  <img align="center" alt="Dbeaver" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
-
-  <img align="center" alt="Figma" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-
-  <img align="center" alt="Firebase" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
-
-  <img align="center" alt="Githubactions" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
-
-  <img align="center" alt="Blender" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
-
-  <img align="center" alt="Godot" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
-
-  <img align="center" alt="Unity" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
-
-  <img align="center" alt="Postgres" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  
-  <img align="center" alt="C++" width="50" height="50" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-
-    
-  <img align="right" alt="ESP32" width="280" height="280" src="https://media1.tenor.com/m/wfZnKK9_Sy8AAAAC/esp32-arduino.gif">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img alt="Android" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg">
+  <img alt="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg">
+  <img alt="Kotlin" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img alt="Apple" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg">
+  <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img alt="Kubernetes" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+  <img alt="Grafana" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
+  <img alt="Jenkins" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
+  <img alt="Nginx" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg">
+  <img alt="Redis" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
+  <img alt="Xcode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg">
+  <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img alt="Go" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+  <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="Dbeaver" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
+  <img alt="Figma" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img alt="Firebase" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+  <img alt="GitHub Actions" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
+  <img alt="Blender" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
+  <img alt="Godot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+  <img alt="Unity" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg">
+  <img alt="Postgres" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img alt="C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div>
     
 ##
@@ -66,4 +40,6 @@
   <a href="https://www.linkedin.com/in/rikelmyso7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rikelmyso7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:rikelmyroberto1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="right" alt="ESP32" width="180" height="180" src="https://media1.tenor.com/m/wfZnKK9_Sy8AAAAC/esp32-arduino.gif">
 </div>
+
